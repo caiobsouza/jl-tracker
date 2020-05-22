@@ -10,10 +10,10 @@ Idk.
 
 ## How to: 
 Returning as JSON:
-> https://jl-tracker.herokuapp.com//json/:trackingNumber
+> https://jl-tracker.herokuapp.com/json/:trackingNumber
 
 Returning as HTML:
-> https://jl-tracker.herokuapp.com//formatted/:trackingNumber
+> https://jl-tracker.herokuapp.com/formatted/:trackingNumber
 
 ## Bye
 See ya.
