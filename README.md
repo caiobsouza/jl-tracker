@@ -1,4 +1,3 @@
-# Jadlog Shipment (Faster) Tracker
 ## Why?
 I was tired of going through a slow website just to get the status of my shipment. So I created I app to bypass it and hit the information directly.
 
